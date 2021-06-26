@@ -24,7 +24,7 @@ pip install <module name>
 * If User shows only Index Finger than he/she can Move Cursor.
 * To Click, User's Index and Middle finger both should be Up simultaneously. 
  
- ![final](https://user-images.githubusercontent.com/78357575/123516002-93aed580-d6b7-11eb-835b-ac7b284850d5.jpg)
+  ![final](https://user-images.githubusercontent.com/78357575/123516002-93aed580-d6b7-11eb-835b-ac7b284850d5.jpg)
 
 
 
