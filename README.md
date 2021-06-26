@@ -15,7 +15,7 @@ pip install <module name>
 ```
 
 ## Features :
-* Can Move Your Cursor corresponding your Index finger movement
+* Can Move Your Cursor corresponding to your Index finger movement
 * Can track your hand in real-time
 
 ### Working :
